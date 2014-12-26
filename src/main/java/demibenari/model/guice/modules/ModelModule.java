@@ -6,7 +6,7 @@ import demibenari.model.ModelContainerImpl;
 
 /**
  *
- * Created by Demi on 12/13/2014.
+ * Created by Demi Ben-Ari on 12/13/2014.
  */
 public class ModelModule extends AbstractModule {
     @Override

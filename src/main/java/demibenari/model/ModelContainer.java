@@ -6,6 +6,10 @@ import demibenari.common.observers.Subjet;
 
 import java.util.List;
 
+/**
+ *
+ * Created by Demi Ben-Ari on 12/13/2014.
+ */
 public interface ModelContainer extends Subjet<ItemsObserver> {
     public List<Item> getAllItems();
 

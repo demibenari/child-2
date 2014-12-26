@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * Created by Demi on 12/13/2014.
+ * Created by Demi Ben-Ari on 12/13/2014.
  */
 public class ModelContainerImpl extends AbstractSubjet<ItemsObserver> implements ModelContainer {
     private List<Item> items;
